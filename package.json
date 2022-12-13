@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@arcgis/core": "^4.25.5"
+  }
+}
+{
+  "script": {
+    "start": "npm run copy && react-scripts start",
+    "build": "npm run copy && react-scripts build",
+    "copy": "ncp ./node_modules/@arcgis/core/assets ./public/assets"
+  }
+}
