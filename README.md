@@ -1,6 +1,6 @@
 # js-arcgis
 
-<p>Install arcgis core</p>
+<h3>Install arcgis core</h3>
 <a>https://developers.arcgis.com/javascript/latest/es-modules/#additional-information></a>
-<p>ArcGIS Developer</p>
+<h3>ArcGIS Developer</h3>
 <a>https://developers.arcgis.com/javascript/latest/></a>
